@@ -1,27 +1,24 @@
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
-<h3 align="center">I'm Álvaro a 18 years old Front end developer and curious about new things.</h3>
-<br />
-<h2 align="center">My history</h2>
-<p align="center">
-    I started in Front End development because i like to organize things.
-</p>
-<p align="center">
-    Javascript has been my partner for the last 6 months in the field of Front End development.
-</p>
-<br />
-<h2 align="center">Languages and Tools:</h2>
-<br />
-<p align="center">
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
-</p>
+<h3 align="center">A frontend developer passionate to learn new things</h3>
+
+- 🌱 I’m currently learning **React.js**
+
+- 👨‍💻 All of my projects are available at [https://portifolio-2021-ecru.vercel.app/](https://portifolio-2021-ecru.vercel.app/)
+
+<h3 align="left">Languages and others:</h3>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<h3 align="left">Tools:</h3>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+
+<h3 align="left">SOs:</h3>
+ <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" width="40" height="40"/> </a>
+ <a href="https://www.microsoft.com/pt-br/windows/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/800px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="windows" width="40" height="40"/> </a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaro-j&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alvaro-j" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvaro-j&show_icons=true&theme=tokyonight&locale=en" alt="alvaro-j" /></p>
