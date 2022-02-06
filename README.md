@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">A frontend developer passionate to learn new things</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://portifolio-2021-ecru.vercel.app/](https://portifolio-2021-ecru.vercel.app/)
 
