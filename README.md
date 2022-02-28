@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Álvaro</h1>
+<h1 align="center">Howdy 👋, I'm Álvaro</h1>
 <h3 align="center">A frontend developer passionate to learn new things</h3>
 
 - 🌱 I’m currently learning **React.js** and **UI/UX**
