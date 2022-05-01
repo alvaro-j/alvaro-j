@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaro-j&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alvaro-j" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvaro-j&show_icons=true&theme=tokyonight&locale=en" alt="alvaro-j" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
