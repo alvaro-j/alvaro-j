@@ -1,5 +1,4 @@
-<h1 align="center">Howdy ![image](https://user-images.githubusercontent.com/86482525/169418245-3d4398ef-2894-40a1-bc39-bbc2d519204e.png)
-, I'm Álvaro</h1>
+<h1 align="center">Howdy, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Álvaro</h1>
 <h3 align="center">A frontend developer eager to learn new things</h3>
 
 - 🌱 I’m currently learning **React.js** and **Typescript**
