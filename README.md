@@ -26,5 +26,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaro-j&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alvaro-j" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvaro-j&show_icons=true&theme=tokyonight&locale=en" alt="alvaro-j" />
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alvaro-j&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
