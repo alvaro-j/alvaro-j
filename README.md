@@ -22,7 +22,7 @@
  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" width="40" height="40"/> </a>
  <a href="https://www.microsoft.com/pt-br/windows/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/800px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="windows" width="40" height="40"/> </a>
 
-<div>
+<div align="center" >
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaro-j&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alvaro-j" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvaro-j&show_icons=true&theme=tokyonight&locale=en" alt="alvaro-j" /></p>
 </div>
